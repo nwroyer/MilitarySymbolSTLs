@@ -1,4 +1,4 @@
-# Military symbol SVG token generator
+# Military symbol STL token generator
 
 ![Example of generated STLs](example.png)
 
